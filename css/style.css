@@ -1,0 +1,30 @@
+.navbar-custom {
+  background-color: #009688;
+  font: bold;
+  font-size: 20px;
+  font-family: 'Fjalla One', sans-serif;
+
+}
+.navbar-brand{
+  font-size: 25px;
+  font: bold;
+  font-family: 'Fjalla One', sans-serif;
+}
+#top-bar-left{
+  text-align: left;
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+}
+#top-bar-right{
+  text-align: right;
+  font-size: 20px;
+  font-family: 'Fjalla One', sans-serif;
+}
+a {
+    color: #fcf8e3;
+    text-decoration: none;
+}
+#space{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
